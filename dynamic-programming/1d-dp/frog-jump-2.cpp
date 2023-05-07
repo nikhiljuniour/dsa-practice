@@ -32,4 +32,5 @@ The length of a jump is the absolute difference between the position of the ston
   (rock_i) work to return. Because the array is strictly increasing
 - It is optimal that we make use of all rocks: There is never a benefit of not including a rock in Path 1 or Path 2, it is always       
   positive or neutral.
+- max kyun kar rahe hai, kaise pata ki min cost usse hi milega..? bcoz ans pure route ka max cost rahega. 
 */
